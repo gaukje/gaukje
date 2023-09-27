@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaute Zhang Kjelstadli</h1>
 <h3 align="center">A passionate software engineer student, studying at Oslomet</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaukje" alt="gaukje" /></a> </p>
 
 - 🔭 I’m currently working on .NET Core [cabinFever](https://github.com/gaukje/cabinFever)
 
