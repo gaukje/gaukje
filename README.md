@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on .NET Core [cabinFever](https://github.com/gaukje/cabinFever)
 
-- 💬 Ask me about **Java, Javascript**
 
 - 📫 How to reach me **gzkjelstadli@gmail.com**
 
