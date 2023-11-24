@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer student, studying at Oslomet</h3>
 
 
-- 🔭 I’m currently working on .NET Core [cabinFever](https://github.com/gaukje/cabinFever)
+- 🔭 I’m currently working on .NET Core [cabinFeverReact](https://github.com/gaukje/cabinFeverReact)
 
 
 - 📫 How to reach me **gzkjelstadli@gmail.com**
