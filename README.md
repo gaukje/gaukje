@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaute Zhang Kjelstadli</h1>
 <h3 align="center">A passionate software engineer student, studying at Oslomet</h3>
 
-
-- 🔭 I’m currently working on .NET Core [cabinFeverReact](https://github.com/gaukje/cabinFeverReact)
-
-
 - 📫 How to reach me **gzkjelstadli@gmail.com**
 
 <p align="left">
