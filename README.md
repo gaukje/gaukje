@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaute Zhang Kjelstadli</h1>
-<h3 align="center">A passionate software engineer student, studying at Oslomet</h3>
+<h3 align="center">A software engineer student, studying at Oslomet</h3>
 
 - 📫 How to reach me **gzkjelstadli@gmail.com**
 
